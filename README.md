@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Islena Romero 👋
 
-<!--
-**islenaromero/IslenaRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Telecommunications Engineer transitioning into Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming data into actionable insights through analysis, visualization, and storytelling.
+
+Currently developing projects using:
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- Data Visualization
+
+---
+
+## Featured Projects
+
+🚧 Coming soon...
+
+- Urban Mobility Analysis in LATAM
+- Customer Retention Analysis
+- SQL Business Case Studies
+- Power BI Dashboards
+
+---
+
+## Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Business Intelligence
+- Machine Learning Fundamentals
+
+---
+
+## Let's Connect
+
+💼 LinkedIn:
+(We'll add your LinkedIn URL later.)
+
+📧 Email:
+(We'll add it if you want.)
