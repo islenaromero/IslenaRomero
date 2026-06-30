@@ -39,8 +39,6 @@ Currently developing projects using:
 
 ## Let's Connect
 
-💼 LinkedIn:
-(We'll add your LinkedIn URL later.)
+💼 LinkedIn: www.linkedin.com/in/islena-romero-londoño
 
-📧 Email:
-(We'll add it if you want.)
+📧 Email:islena.romero@gmail.com
