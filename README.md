@@ -3,9 +3,30 @@ Data Analyst | Telecommunications Engineer | Python | SQL | Power BI
 
 ## About Me
 
-I am a Telecommunications Engineer with experience in network operations and a strong foundation in Data Analytics. I enjoy transforming complex datasets into actionable insights through Python, SQL, Power BI, and data storytelling.
+I'm a Telecommunications Engineer transitioning into Data Analytics, passionate about transforming data into actionable business insights.
 
-Currently developing projects using:
+With more than 10 years of experience in network operations and performance analysis, I combine analytical thinking, problem-solving, and technical expertise to support data-driven decision making.
+
+I'm currently building a professional Data Analytics portfolio focused on real-world business problems using Python, SQL, Power BI, and GitHub.
+
+---
+
+## 🚀 Featured Project
+
+### 📊 Urban Mobility Analysis in Latin America
+
+Business analysis exploring the relationship between traffic congestion and economic indicators across major Latin American cities.
+
+### Project Highlights
+
+- Data Cleaning
+- Data Preparation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Integration
+- Business Recommendations
+
+### Technologies
 
 🐍 Python
 🗄️ SQL
@@ -17,28 +38,74 @@ Currently developing projects using:
 💻 GitHub
 ---
 
-## Featured Projects
+🔗 Repository
 
-🚧 Coming soon...
-
-- Urban Mobility Analysis in LATAM
-- Customer Retention Analysis
-- SQL Business Case Studies
-- Power BI Dashboards
+https://github.com/islenaromero/urban-mobility-latam-analysis
 
 ---
 
-## Currently Learning
+## 🛠 Technical Skills
+
+### Programming
+
+- Python
+- SQL
+
+### Data Analysis
+
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+
+### Data Visualization
+
+- Matplotlib
+- Power BI
+- Excel
+
+### Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+## 📂 Portfolio Roadmap
+
+✔ Urban Mobility Analysis in Latin America
+
+🔄 Customer Churn Analysis *(In Progress)*
+
+🔄 Sales Performance Dashboard *(Coming Soon)*
+
+🔄 SQL Business Case *(Coming Soon)*
+
+🔄 Customer Segmentation *(Coming Soon)*
+
+---
+
+## 🌱 Currently Learning
 
 - Advanced SQL
-- Python for Data Analysis
-- Business Intelligence
+- Power BI
 - Machine Learning Fundamentals
+- Statistical Analysis
+- Data Storytelling
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
-💼 LinkedIn: www.linkedin.com/in/islena-romero-londoño
+💼 LinkedIn
 
-📧 Email:islena.romero@gmail.com
+https://www.linkedin.com/in/islenaromero/
+
+📧 Email: islena.romero@gmail.com
+
+(Your professional email)
+
+---
+⭐ Thanks for visiting my GitHub profile!
