@@ -105,7 +105,5 @@ https://www.linkedin.com/in/islenaromero/
 
 📧 Email: islena.romero@gmail.com
 
-(Your professional email)
-
 ---
 ⭐ Thanks for visiting my GitHub profile!
