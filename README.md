@@ -1,109 +1,71 @@
 # Hi, I'm Islena Romero 👋
-Data Analyst | Telecommunications Engineer | Python | SQL | Power BI
+
+**Telecommunications Engineer | Data Analytics | Python | SQL | Power BI**
 
 ## About Me
 
-I'm a Telecommunications Engineer transitioning into Data Analytics, passionate about transforming data into actionable business insights.
+I'm a Telecommunications Engineer with over 15 years of experience in network operations, service assurance, incident management, and performance monitoring.
 
-With more than 10 years of experience in network operations and performance analysis, I combine analytical thinking, problem-solving, and technical expertise to support data-driven decision making.
+I have completed the Data Analytics Bootcamp at TripleTen, strengthening my skills in data preparation, exploratory data analysis, visualization, and business-oriented insights.
 
-I'm currently building a professional Data Analytics portfolio focused on real-world business problems using Python, SQL, Power BI, and GitHub.
+My professional focus is on combining my telecommunications background with data analytics to identify patterns, understand operational and customer behavior, and support data-driven decision-making.
 
----
+## 🛠️ Technical Skills
 
-## 🚀 Featured Project
+- **Programming & Data Analysis:** Python, SQL, Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Power BI, Excel
+- **Data Analytics:** Data Cleaning, Data Validation, Exploratory Data Analysis (EDA), Customer Segmentation, Statistical Analysis
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+- **Domain Knowledge:** Telecommunications, Service Assurance, KPI Monitoring, Incident Analysis, SLA Management
 
-### 📊 Urban Mobility Analysis in Latin America
+## 🚀 Featured Projects
 
-Business analysis exploring the relationship between traffic congestion and economic indicators across major Latin American cities.
+### 📊 ConnectaTel Customer Analysis
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-### Project Highlights
+Exploratory data analysis of customer behavior for a telecommunications company operating in Latin America.
 
-- Data Cleaning
-- Data Preparation
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Data Integration
-- Business Recommendations
+- Cleaned and validated customer and service usage data.
+- Analyzed customer behavior and usage patterns.
+- Explored customer segments and potential retention opportunities.
+- Developed business-oriented recommendations based on the findings.
 
-### Technologies
+[View Project Repository](https://github.com/islenaromero/connectatel-customer-analysis)
 
-🐍 Python
-🗄️ SQL
-📊 Power BI
-📈 Excel
-🐼 Pandas
-📉 Matplotlib
-🔍 Git
-💻 GitHub
----
+### 🌎 Urban Mobility & Economic Productivity in Latin America
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-🔗 Repository
+Analyzed urban mobility indicators and economic data to explore the relationship between traffic congestion and GDP per capita across Latin American cities.
 
-https://github.com/islenaromero/urban-mobility-latam-analysis
+- Integrated and prepared datasets from different sources.
+- Conducted exploratory data analysis.
+- Visualized trends and relationships between variables.
+- Interpreted findings to support evidence-based conclusions.
 
----
+[View Project Repository](https://github.com/islenaromero/urban-mobility-latam-analysis)
 
-## 🛠 Technical Skills
+### 🛍️ NovaRetail Customer Behavior Analysis
+**Tools:** Python, Pandas, Data Visualization
 
-### Programming
+Explored customer behavior to identify factors associated with annual customer revenue and generate insights to support business decisions.
 
-- Python
-- SQL
+[View Project Repository](https://github.com/islenaromero/novaretail-customer-behavior-analysis)
 
-### Data Analysis
+## 🎓 Education
 
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
+- **Data Analytics Bootcamp — TripleTen** | Completed
+- **Specialization in Financial Management and Administration** — Universidad Piloto de Colombia
+- **Telecommunications Engineering** — Universidad Distrital Francisco José de Caldas
 
-### Data Visualization
+## 🌱 Professional Development
 
-- Matplotlib
-- Power BI
-- Excel
-
-### Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-
----
-
-## 📂 Portfolio Roadmap
-
-✔ Urban Mobility Analysis in Latin America
-
-🔄 Customer Churn Analysis *(In Progress)*
-
-🔄 Sales Performance Dashboard *(Coming Soon)*
-
-🔄 SQL Business Case *(Coming Soon)*
-
-🔄 Customer Segmentation *(Coming Soon)*
-
----
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Machine Learning Fundamentals
-- Statistical Analysis
-- Data Storytelling
-
----
+I continue strengthening my analytical skills and exploring ways to apply data analytics to telecommunications, operational performance, customer behavior, and business intelligence.
 
 ## 📫 Let's Connect
 
-💼 LinkedIn
+- **LinkedIn:** [Islena Romero](https://www.linkedin.com/in/islenaromero/)
+- **GitHub:** [@islenaromero](https://github.com/islenaromero)
 
-https://www.linkedin.com/in/islenaromero/
-
-📧 Email: islena.romero@gmail.com
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
